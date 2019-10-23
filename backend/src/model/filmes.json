@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "titulo": "Pulp Fiction",
+        "sinopse": "Os caminhos de vários criminosos se cruzam nestas três histórias de Quentin Tarantino. Um pistoleiro se apaixona pela mulher de seu chefe, um boxeador não se sai bem em uma luta e um casal tenta executar um plano de roubo que foge do controle.",
+        "dataDeLancamento": "15/02/1995",
+        "duracaoEmMinutos": 178,
+        "genero": ["drama", "independente", "policial", "suspense"]
+    },
+    {
+        "id": 2,
+        "titulo": "Kill Bill",
+        "sinopse": "A ex-assassina conhecida apenas como 'A Noiva' acorda de um coma de quatro anos decidida a se vingar de Bill, seu ex-amante e chefe, que tentou matá-la no dia do casamento. Ela está motivada a acertar as contas com cada uma das pessoas envolvidas com a perda da filha, da festa de casamento e dos quatro anos da sua vida.",
+        "dataDeLancamento": "23/04/2004",
+        "duracaoEmMinutos": 112,
+        "genero": ["ação", "policial", "suspense"]
+    },
+    {
+        "id": 3,
+        "titulo": "Bastardos Inglórios",
+        "sinopse": "Durante a Segunda Guerra Mundial, na França, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido.",
+        "dataDeLancamento": "09/10/2009",
+        "duracaoEmMinutos": 153,
+        "genero": ["ação", "drama", "guerra"]
+    },
+    {
+        "id": 4,
+        "titulo": "Jackie Brown",
+        "sinopse": "Comissária de bordo trafica dinheiro a mando de um vendedor de armas. Quando dois policiais oferecem um acordo para que ela entregue o bandido, a mulher decide enganar todos os envolvidos, com um olho na liberdade e outro numa mala cheia de dinheiro.",
+        "dataDeLancamento": "22/05/1998",
+        "duracaoEmMinutos": 160,
+        "genero": ["drama", "policial", "suspense", "mistério", "criminal"]
+    },
+    {
+        "id": 5,
+        "titulo": "Cães de Aluguel",
+        "sinopse": "Criminoso reúne seis bandidos para grande roubo de diamantes. Algo sai errado e um deles é ferido durante roubo e os bandidos precisam descobrir quem foi que os traiu, o que gera enorme tensão no grupo e enfraquece a todos.",
+        "dataDeLancamento": "04/06/1993",
+        "duracaoEmMinutos": 100,
+        "genero": ["aventura", "policial", "suspense", "drama"]
+    },
+    {
+        "id": 6,
+        "titulo": "Os Oito Odiados",
+        "sinopse": "Em busca de abrigo para se proteger de uma nevasca, dois caçadores de recompensas, um prisioneiro e um homem que alega ser xerife conhecem quatro estranhos.",
+        "dataDeLancamento": "07/01/2016",
+        "duracaoEmMinutos": 187,
+        "genero": ["drama", "faroeste", "suspense"]
+    },
+    {
+        "id": 7,
+        "titulo": "Django Livre",
+        "sinopse": "No sul dos Estados Unidos, anos antes da Guerra Civil, um ex-escravo Django faz uma aliança inesperada com o caçador de recompensas Schultz para caçar os criminosos mais procurados do país e resgatar sua esposa de um fazendeiro que força seus escravos a participarem de competições mortais.",
+        "dataDeLancamento": "18/01/2013",
+        "duracaoEmMinutos": 165,
+        "genero": ["ação", "aventura", "faroeste", "drama"]
+    }
+]
