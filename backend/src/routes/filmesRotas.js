@@ -4,7 +4,6 @@ const controller = require('../controller/filmesController');
 
 router.get('/', controller.getFilmes);
 router.get('/:id', controller.getFilmeById);
+router.get('/generos/:nome', controller.getFilmesByGenero);
 
 module.exports = router;
-
-//Error: Route.get() requires a callback function but got a [object Undefined]
