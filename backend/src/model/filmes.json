@@ -54,5 +54,13 @@
         "dataDeLancamento": "18/01/2013",
         "duracaoEmMinutos": 165,
         "genero": ["ação", "aventura", "faroeste", "drama"]
+    },
+    {
+        "id": 8,
+        "titulo": "Last Night in Soho",
+        "sinopse": "No sul dos Estados Unidos, anos antes da Guerra Civil, um ex-escravo Django faz uma aliança inesperada com o caçador de recompensas Schultz para caçar os criminosos mais procurados do país e resgatar sua esposa de um fazendeiro que força seus escravos a participarem de competições mortais.",
+        "dataDeLancamento": "18/01/2020",
+        "duracaoEmMinutos": 165,
+        "genero": ["ação", "aventura", "faroeste", "drama"]
     }
 ]
