@@ -6,7 +6,7 @@ exports.getFilmes = (request, response) => {
 
 exports.getFilmeById = (request, response) => {
     const idUrl = request.params.id;
-    const filme = filmesJson.find(e => e.id = idUrl);
+    const filme = filmesJson.find(e => e.id == idUrl);
     response.status(200).send(filme);
 };
 

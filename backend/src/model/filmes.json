@@ -67,8 +67,16 @@
         "id": 9,
         "titulo": "Eu nao tenho criatividade",
         "sinopse": "Please stop looking at your phone and pet me. Cat not kitten around i see a bird i stare at it i meow at it i do a wiggle come here birdy meow chew on cable leave fur on owners clothes licks paws love and coo around boyfriend who purrs and makes the perfect moonlight eyes so i can purr and swat the glittery gleaming yarn to him (the yarn is from a $125 sweater).",
-        "dataDeLancamento": "26/10/2019",
+        "dataDeLancamento": "26/12/2019",
         "duracaoEmMinutos": 160,
         "genero": ["romantico", "comedia", "terror"]
+    },
+    {
+        "id": 10,
+        "titulo": "Eu nao tenho criatividade 2",
+        "sinopse": "Sniff catnip and act crazy loved it, hated it, loved it, hated it what the heck just happened, something feels fishy so meow meow, i tell my human but leave dead animals as gifts. Fall asleep on the washing machine bleghbleghvomit my furball really tie the room together. Scratch the postman wake up lick paw wake up owner meow meow.",
+        "dataDeLancamento": "26/12/2019",
+        "duracaoEmMinutos": 180,
+        "genero": ["aventura", "comedia", "terror", "romantico", "independente"]
     }
 ]

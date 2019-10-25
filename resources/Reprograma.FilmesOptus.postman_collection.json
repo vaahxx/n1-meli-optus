@@ -1,0 +1,118 @@
+{
+	"info": {
+		"_postman_id": "33e2565d-2c9b-4e30-b4e0-35baa0bf649d",
+		"name": "Reprograma.FilmesOptus",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Filmes",
+			"item": [
+				{
+					"name": "filmes.get",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/filmes/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"filmes",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "filmes.getById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/filmes/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"filmes",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "filmes.getByGenero",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/filmes/generos/drama",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"filmes",
+								"generos",
+								"drama"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "filmes.getProximosLancamentos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/filmes/proximoslancamentos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"filmes",
+								"proximoslancamentos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "filmes.getDuracaoMaiorQue120",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/filmes/duracao/maiorque120",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"filmes",
+								"duracao",
+								"maiorque120"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}

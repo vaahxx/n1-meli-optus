@@ -6,14 +6,14 @@ feito em node.js usando express.js, JSON simulando o banco de dados
 objetivo: manipular requisições do tipo GET e retornar saídas em JSON
 ```
 ### Instruções ###
-A empresa Optus contratou você para disponibilizar uma API para listar todos os filmes da plataforma. 
+A empresa Optus contratou você para disponibilizar uma API para listar todos os filmes da plataforma.  
 Cada filme contém as seguintes informações:
 
 ```
-Título,
-Sinopse, 
-Data de Lançamento, 
-Duração em Minutos,
+Título
+Sinopse 
+Data de Lançamento 
+Duração em Minutos
 Gêneros (1 ou mais)
 ```
 
