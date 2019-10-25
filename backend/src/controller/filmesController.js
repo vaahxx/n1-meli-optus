@@ -33,8 +33,9 @@ exports.getProximosLancamentos = (request, response) => {
         const mesLancamento = dataDeLancamento[1];
         const anoLancamento = dataDeLancamento[2];
 
-        return anoLancamento > anoAtual;
-
+        if (anoLancamento > anoAtual || anoLancamento == anoAtual && mesLancamento > mesAtual || anoLancamento == anoAtual && mesLancamento == mesAtual && diaLancamento > diaAtual){
+            return e;
+        }
     });
     response.status(200).send(proximosLancamentos);
 };
